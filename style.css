@@ -17,7 +17,7 @@ section {
 .hero {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/Assests/closeup-shot-sparks-flying-from-industrial-steel-cutter.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(Assests/closeup-shot-sparks-flying-from-industrial-steel-cutter.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
